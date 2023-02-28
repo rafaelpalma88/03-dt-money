@@ -19,5 +19,6 @@ export function useSummary() {
         outcome: 0,
         total: 0
     })
+    console.log('summary', summary)
     return summary;
 }
