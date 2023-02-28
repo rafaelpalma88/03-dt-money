@@ -13,7 +13,7 @@
             "description": "Supermercado",
             "type": "outcome",
             "category": "Alimentação",
-            "price": -350,
+            "price": 350,
             "createdAt": "2023-02-24T16:58:06.628Z"
         },
         { 
@@ -21,7 +21,7 @@
             "description": "Jantar com a piriguete",
             "type": "outcome",
             "category": "Refeição",
-            "price": -200,
+            "price": 200,
             "createdAt": "2023-02-24T16:58:06.628Z"
         },
         { 
@@ -29,7 +29,7 @@
             "description": "Viagem de Férias",
             "type": "outcome",
             "category": "Viagens",
-            "price": -2100,
+            "price": 2100,
             "createdAt": "2023-02-24T16:58:06.628Z"
         }
     ]
