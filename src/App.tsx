@@ -12,9 +12,6 @@ export function App() {
       <TransactionsContextProvider>
         <Transactions />
       </TransactionsContextProvider>
-      
     </ThemeProvider>
   )
 }
-
-
