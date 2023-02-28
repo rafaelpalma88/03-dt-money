@@ -1,36 +1,52 @@
 {
-    "transactions": [
-        { 
-            "id": 1,
-            "description": "Salário Mensal",
-            "type": "income",
-            "category": "Salary",
-            "price": 3200,
-            "createdAt": "2023-02-24T16:58:06.628Z"
-        },
-        { 
-            "id": 2,
-            "description": "Supermercado",
-            "type": "outcome",
-            "category": "Alimentação",
-            "price": 350,
-            "createdAt": "2023-02-24T16:58:06.628Z"
-        },
-        { 
-            "id": 3,
-            "description": "Jantar com a piriguete",
-            "type": "outcome",
-            "category": "Refeição",
-            "price": 200,
-            "createdAt": "2023-02-24T16:58:06.628Z"
-        },
-        { 
-            "id": 4,
-            "description": "Viagem de Férias",
-            "type": "outcome",
-            "category": "Viagens",
-            "price": 2100,
-            "createdAt": "2023-02-24T16:58:06.628Z"
-        }
-    ]
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Salário Mensal",
+      "type": "income",
+      "category": "Salary",
+      "price": 3200,
+      "createdAt": "2023-02-24T16:58:06.628Z"
+    },
+    {
+      "id": 2,
+      "description": "Supermercado",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 350,
+      "createdAt": "2023-02-24T16:58:06.628Z"
+    },
+    {
+      "id": 3,
+      "description": "Jantar com a piriguete",
+      "type": "outcome",
+      "category": "Refeição",
+      "price": 200,
+      "createdAt": "2023-02-24T16:58:06.628Z"
+    },
+    {
+      "id": 4,
+      "description": "Viagem de Férias",
+      "type": "outcome",
+      "category": "Viagens",
+      "price": 2100,
+      "createdAt": "2023-02-24T16:58:06.628Z"
+    },
+    {
+      "description": "Salario",
+      "price": 4000,
+      "category": "Salary",
+      "type": "income",
+      "createdAt": "2023-02-28T17:27:21.728Z",
+      "id": 5
+    },
+    {
+      "description": "Reparo bicicleta",
+      "price": 30,
+      "category": "Manutenção",
+      "type": "income",
+      "createdAt": "2023-02-28T18:42:22.899Z",
+      "id": 6
+    }
+  ]
 }
